@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>bonsai.io</title>
   
-  <link href="/bonsai.io/atom.xml" rel="self"/>
+  <link href="/bonsai.io/bonsai.io/atom.xml" rel="self"/>
   
   <link href="https://fujimax.github.io/bonsai.io/"/>
   <updated>2017-06-25T15:31:37.000Z</updated>
