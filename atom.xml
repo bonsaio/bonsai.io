@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/bonsai.io/atom.xml" rel="self"/>
+  
+  <link href="https://fujimax.github.io/bonsai.io/"/>
+  <updated>2017-06-25T15:31:37.000Z</updated>
+  <id>https://fujimax.github.io/bonsai.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ブログ開設しました</title>
+    <link href="https://fujimax.github.io/bonsai.io/2017/06/26/%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://fujimax.github.io/bonsai.io/2017/06/26/ブログ開設しました/</id>
+    <published>2017-06-25T15:30:06.000Z</published>
+    <updated>2017-06-25T15:31:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="このサイトは"><a href="#このサイトは" class="headerlink" title="このサイトは"></a>このサイトは</h1><p>bonsai.ioというタイトルのブログです。</p>
+<p>#シンタックス<br><a href="http://qiita.com" target="_blank" rel="external">Qiita</a>のようにシンタックスハイライトされます。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"> </div><div class="line">var http = require(&apos;http&apos;);</div><div class="line">http.createServer(function (req, res) &#123;</div><div class="line">  res.writeHead(200, &#123;&apos;Content-Type&apos;: &apos;text/plain&apos;&#125;);</div><div class="line">  res.end(&apos;Hello World\n&apos;);</div><div class="line">&#125;).listen(1337, &apos;127.0.0.1&apos;);</div><div class="line">console.log(&apos;Server running at http://127.0.0.1:1337/&apos;);</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;このサイトは&quot;&gt;&lt;a href=&quot;#このサイトは&quot; class=&quot;headerlink&quot; title=&quot;このサイトは&quot;&gt;&lt;/a&gt;このサイトは&lt;/h1&gt;&lt;p&gt;bonsai.ioというタイトルのブログです。&lt;/p&gt;
+&lt;p&gt;#シンタックス&lt;br&gt;&lt;a href=&quot;htt
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://fujimax.github.io/bonsai.io/2017/06/26/hello-world/"/>
+    <id>https://fujimax.github.io/bonsai.io/2017/06/26/hello-world/</id>
+    <published>2017-06-25T15:00:18.000Z</published>
+    <updated>2017-06-25T15:00:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
